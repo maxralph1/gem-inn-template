@@ -1,0 +1,21 @@
+.cart-counter {
+    display: block;
+    position: fixed;
+	text-align: center;
+	color:#fff;
+	background-color: white;
+    outline: 2px solid black;
+    color: red; 
+	width: 1.25rem;
+	height: 1.25rem;
+    right: 2.15rem; 
+    bottom: 3.15rem;
+	border-radius: 50%;
+	font-size: 14px;
+}
+
+.footer-fixed {
+	position: fixed; 
+	bottom:0; 
+	width: 100%
+}
