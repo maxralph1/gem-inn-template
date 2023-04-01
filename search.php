@@ -14,12 +14,12 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous" defer></script>
 </head>
 
-<body class="d-flex flex-column" style="position: relative">
+<body class="d-flex flex-column h-100" style="position: relative">
     <?php include './includes/topnav.php'; ?>
 
     <main class="container last-section-margin mt-5">
         <section>
-            <h3 class="fs-3 fw-bold border-bottom">Our Products</h3>
+            <h3 class="fs-3 fw-bold border-bottom">Search results for: <span class="fs-2">"watche"</span></h3>
 
             <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
                 <article class="col">
